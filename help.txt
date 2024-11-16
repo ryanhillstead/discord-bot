@@ -1,0 +1,19 @@
+/help (displays a helpful summary of commands) 
+
+/ping (replies with "Pong!")
+
+/lorem (produces lorem ipsum words) 
+
+/dadjoke (tells a random dad joke)
+
+/chuck (tells a random Chuck Norris joke)
+
+/die (kills your bot)
+
+/dm (sends a direct message to someone)
+
+/weather (gives local weather blurb)
+
+/server (provides information about the server)
+
+/user (provides information about the user)
